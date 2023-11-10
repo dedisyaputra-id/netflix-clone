@@ -1,10 +1,11 @@
-import { Navbar, Row, Col, Nav } from "react-bootstrap";
+import { Navbar, Nav } from "react-bootstrap";
 import "./navbar.css";
 const NavigationBar = () => {
+  const onclickHandler = () => {};
   return (
     <div>
-      <Navbar className="navigation-bar">
-        <Navbar.Brand href="#home" className="logo">
+      <Navbar className="navigation-bar" fixed="top">
+        <Navbar.Brand href="#home" onClick={onclickHandler} className="logo">
           NETFLIX
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />

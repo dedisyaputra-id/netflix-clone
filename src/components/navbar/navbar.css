@@ -11,6 +11,10 @@
   letter-spacing: 0.3rem;
 }
 
+.navigation-bar .logo:hover {
+  color: red;
+}
+
 .navigation-bar .tagline,
 .login,
 .btn-join {

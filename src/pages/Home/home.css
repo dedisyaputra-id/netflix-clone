@@ -1,5 +1,6 @@
 .home {
-  padding: 3.5rem 2rem !important;
+  padding: 7.7rem 2rem !important;
+  min-height: 100vh;
 }
 
 .content .title {
@@ -11,4 +12,9 @@
 .content .description {
   font-family: "Roboto", sans-serif;
   font-size: 1.2rem;
+}
+
+.content .genre .genre-title {
+  font-size: 1.3rem;
+  font-family: "Roboto", sans-serif;
 }

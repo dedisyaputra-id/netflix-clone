@@ -1,6 +1,7 @@
 import MainLayout from "../../components/main/Main-layout";
 import "./home.css";
 import { Row, Col } from "react-bootstrap";
+import ListFilm from "../../components/film/LIstFilm";
 const Home = () => {
   return (
     <MainLayout>
@@ -16,6 +17,7 @@ const Home = () => {
               </p>
             </Col>
           </Row>
+          <ListFilm />
         </div>
       </div>
     </MainLayout>

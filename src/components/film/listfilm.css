@@ -1,0 +1,5 @@
+.list-movie img {
+  min-width: 22.6vmax;
+  max-height: 29vh;
+  object-fit: cover;
+}
