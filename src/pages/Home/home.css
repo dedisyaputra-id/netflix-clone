@@ -1,0 +1,14 @@
+.home {
+  padding: 3.5rem 2rem !important;
+}
+
+.content .title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+}
+
+.content .description {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.2rem;
+}

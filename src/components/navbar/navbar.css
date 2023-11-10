@@ -1,0 +1,47 @@
+.navigation-bar {
+  background-color: black !important;
+  padding: 0 2rem !important;
+}
+
+.navigation-bar .logo {
+  color: red;
+  font-size: 2.3rem;
+  font-weight: 100;
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: 0.3rem;
+}
+
+.navigation-bar .tagline,
+.login,
+.btn-join {
+  color: white !important;
+  font-size: 0.8rem !important;
+}
+
+.navigation-bar .btn-join {
+  border-radius: 3px;
+  border-color: transparent;
+  background-color: #e20813;
+  padding: 0.4rem 2rem;
+}
+
+.navigation-bar .btn-join:hover {
+  background-color: red;
+  border-color: transparent;
+}
+
+.navigation-bar .login .btn-login {
+  padding: 0.4rem 1.2rem;
+  border: 1px solid #888888;
+  border-radius: 3px;
+}
+
+.navigation-bar .login:hover {
+  background-color: black;
+  color: white;
+}
+
+.navigation-bar .login .btn-login:hover {
+  background-color: #8888;
+  color: white;
+}
