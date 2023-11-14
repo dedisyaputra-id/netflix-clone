@@ -4,15 +4,36 @@
 }
 
 .navigation-bar .logo {
-  color: red;
-  font-size: 2.3rem;
+  color: #e50914;
   font-weight: 100;
   font-family: "Bebas Neue", sans-serif;
-  letter-spacing: 0.3rem;
+  letter-spacing: 0.1rem;
 }
 
 .navigation-bar .logo:hover {
-  color: red;
+  color: #e50914;
+}
+
+.navigation-bar .logo .n {
+  font-size: 2.5rem;
+}
+.navigation-bar .logo .e {
+  font-size: 2.4rem;
+}
+.navigation-bar .logo .t {
+  font-size: 2.3rem;
+}
+.navigation-bar .logo .f {
+  font-size: 2.3rem;
+}
+.navigation-bar .logo .l {
+  font-size: 2.3rem;
+}
+.navigation-bar .logo .i {
+  font-size: 2.4rem;
+}
+.navigation-bar .logo .x {
+  font-size: 2.5rem;
 }
 
 .navigation-bar .tagline,

@@ -1,4 +1,5 @@
 .main-layout {
   background-color: #181818;
   color: #ffff;
+  overflow-x: hidden;
 }

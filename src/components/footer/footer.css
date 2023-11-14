@@ -1,0 +1,74 @@
+section {
+  padding: 0 3rem;
+}
+.tagline {
+  text-align: center;
+}
+
+.btn-join {
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.btn-join p {
+  border-radius: 2px;
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  padding: 0.5rem 2.2rem;
+  background-color: #e20813;
+}
+.btn-join p:hover {
+  background-color: red;
+}
+
+.tagline .description p {
+  font-size: 1.4rem;
+}
+
+section .extra-information {
+  text-decoration: none;
+  color: #737373;
+}
+
+section .netflix-tudum {
+  padding-top: 6rem;
+  padding-bottom: 4rem;
+}
+section .netflix-tudum a:hover {
+  text-decoration: underline;
+}
+
+section .help .contact {
+  text-decoration: none;
+  color: #737373;
+}
+section .help .contact:hover {
+  text-decoration: underline;
+}
+
+section .netflix-other-information {
+  max-width: 80%;
+}
+section .footer-list ul {
+  list-style: none;
+  padding: 0;
+}
+section .footer-list ul li a {
+  color: #737373;
+  text-decoration: none;
+  line-height: 2.1rem;
+  font-size: 0.9rem;
+  text-transform: capitalize;
+}
+section .footer-list ul li a:hover {
+  text-decoration: underline;
+}
+
+section .change-language .form-change select {
+  padding: 0.8rem 1.5rem;
+  background-color: #000000;
+  color: #737373;
+  border-color: #333333;
+  text-transform: capitalize;
+  font-size: 0.8rem;
+}
