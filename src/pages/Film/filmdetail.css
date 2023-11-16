@@ -1,0 +1,18 @@
+.top-layout {
+  margin: 4rem 0 !important;
+  opacity: 0.7;
+}
+
+.top-layout .col-top-layout {
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+}
+.top-layout .col-top-layout .detail-film {
+  position: absolute;
+  bottom: 2rem;
+  width: 40%;
+  z-index: 1;
+  /* background: linear-gradient(to right, #181818, #827886); */
+}
